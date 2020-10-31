@@ -1,0 +1,27 @@
+[
+    {
+        "firstName": "Muhammad",
+        "lastName": "Hassan",
+        "fullName": "Muhammad Hassan"
+    },
+    {
+        "firstName": "Umar",
+        "lastName": "Asif",
+        "fullName": "Umar Asif"
+    },
+    {
+        "firstName": "Azan",
+        "lastName": "Ahmad",
+        "fullName": "Azan Ahmad"
+    },
+    {
+        "firstName": "Zain",
+        "lastName": "Ul Abe Din",
+        "fullName": "Zain Ul Abe Din"
+    },
+    {
+        "firstName": "Imran",
+        "lastName": "Khan",
+        "fullName": "Imran Khan"
+    }
+]
